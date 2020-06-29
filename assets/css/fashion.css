@@ -1,0 +1,200 @@
+body{
+    background: #bdc3c7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.carousel-item{
+	height: 100vh;
+	min-height: 1000px;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	background-size: cover;
+
+}
+
+.carousel-caption{
+	bottom: 150px;
+}
+
+.carousel-caption h5{
+	font-size: 110px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-top: 25px;
+	margin-left: 0px;
+	font-family: Krona One;
+
+}
+
+.carousel-caption p{
+	width: 60%;
+	margin: auto;
+	line-height: 1.9;
+	font-family: poppins;
+	font-size: 40px;
+
+
+}
+
+.carousel-caption a{
+	text-transform: uppercase;
+	background: #262626;
+	padding: 10px 30px;
+	display: inline-block;
+	color: #fff;
+	margin-top: 15px;
+	opacity: 0.8;
+	font-size: 20px;
+}
+
+.navbar-nav a{
+	font-family: poppins;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+
+/*.navbar-light  .navbar-brand{
+	color: #fff;
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+	font-family poppins;*/
+}
+
+#mainNAV{
+	opacity: 0.7;
+	
+}
+
+.navbar-brand{
+	font-family: Krona One;
+	font-weight: bold;
+
+}
+
+.navbar.scrolled{
+    background: rgb(0,0,0);
+    transition: background 800ms;
+    opacity: 0.9;
+}
+
+#page2{
+	color: black;
+	opacity: 0.75;
+	font-family: Krona One;
+	font-weight: bold;
+}
+
+#page1{
+	color: white;
+	opacity: 0.9;
+	font-family: Krona One;
+	font-weight: bold;
+}
+
+
+#page3{
+	opacity: 0.7;
+	font-family: Krona One;
+	font-weight: bold;
+}
+
+
+
+#last {
+	background-color: #f0f3f5;
+	padding-top: 70px;
+	padding-bottom: 70px;
+
+	}
+
+.navbar {
+  min-height: 100px;
+}
+
+
+/* [1] The container */
+.img-hover-zoom {
+  height: 666px; /* [1.1] Set it as per your need */
+  overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+}
+
+/* [2] Transition property for smooth transformation of images */
+.img-hover-zoom img {
+  transition: transform .5s ease;
+}
+
+/* [3] Finally, transforming the image when container gets hovered */
+.img-hover-zoom:hover img {
+  transform: scale(1.5);
+}
+
+
+
+
+
+.service-text h6{
+
+font-family: Balsamiq Sans;
+font-weight: bold;
+font-size: 15px;
+}
+
+.service-text p{
+
+font-family: Balsamiq Sans;
+font-size: 13px;
+color: gray;
+}
+
+}
+
+
+
+
+
+
+h5 {
+    font-size: 1rem;
+    line-height: 1.375;
+    font-family: Rubik,Arial,sans-serif;
+    font-weight: 500;
+    color: white;
+}
+
+a {
+  color: #818494;
+  font-weight: 500;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #f2cbbd;
+  text-decoration: none;
+}
+
+footer {
+background: #232526;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h4{
+
+	font-family: Krona One;
+	font-weight: bold;
+	color: white;
+
+
+}
+
+
+.custom{
+	color: #c5ccd4;
+}
