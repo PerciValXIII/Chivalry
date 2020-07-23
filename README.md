@@ -8,6 +8,6 @@ The external sheets have been linked using CDNs.
 External libraries used are Bootstrap, Google fonts, font awesome, Boostrap jQuery. 
 
 
-You can view the websit on 
+You can view the website on 
 https://swattikmaiti.github.io/Chivalry/
 
