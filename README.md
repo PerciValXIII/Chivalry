@@ -11,3 +11,4 @@ External libraries used are Bootstrap, Google fonts, font awesome, Boostrap jQue
 You can view the website on 
 https://swattikmaiti.github.io/Chivalry/
 
+https://user-images.githubusercontent.com/50179165/94896617-8f001c80-04ab-11eb-81f0-20ffdbf3f9f3.png
